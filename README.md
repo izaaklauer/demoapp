@@ -1,3 +1,3 @@
-# Demoapp
+# Hashitalk
 
 Your basic nodejs webserver
